@@ -34,11 +34,10 @@ Haga click en el botón de color rojo "Eliminar" si desea borrar algun dato ingr
 Haga click en "El buscador" en caso de que tenga una larga lista de cursos y desee encontrar alguno en especifico ingresando el nombre del curso, codigo o puntos obtenidos en él.
 
 ## Imagenes y video de referencias:
+https://user-images.githubusercontent.com/109429801/193495670-65ae82e0-03a5-4a71-8e7a-719d92f4dd6d.mp4
 ![Captura de pantalla 2022-10-02 235159](https://user-images.githubusercontent.com/109429801/193494893-b683b2a8-30c1-47d3-afa1-02c6cb96cb74.png)
 ![image](https://user-images.githubusercontent.com/109429801/193495136-eb7a05da-75a3-4690-b62b-00dfc330fead.png)
 
 
-
-https://user-images.githubusercontent.com/109429801/193495670-65ae82e0-03a5-4a71-8e7a-719d92f4dd6d.mp4
 
 
