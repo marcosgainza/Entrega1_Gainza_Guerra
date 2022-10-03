@@ -35,4 +35,6 @@ Haga click en "El buscador" en caso de que tenga una larga lista de cursos y des
 
 ## Imagenes y video de referencias:
 ![Captura de pantalla 2022-10-02 235159](https://user-images.githubusercontent.com/109429801/193494893-b683b2a8-30c1-47d3-afa1-02c6cb96cb74.png)
+![image](https://user-images.githubusercontent.com/109429801/193495136-eb7a05da-75a3-4690-b62b-00dfc330fead.png)
+
 
